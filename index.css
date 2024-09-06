@@ -1,0 +1,16 @@
+span.underline{
+    text-decoration: underline;
+}
+
+span.orangeBG{
+    background: orange;
+}
+
+span.redText{
+    color: red;
+    font-weight: bold;
+}
+
+div.littlePrince{
+    width: 400px;
+}
